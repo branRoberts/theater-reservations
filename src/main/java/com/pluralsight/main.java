@@ -38,5 +38,6 @@ public class main {
         else {
             System.out.println("You did not buy any tickets");
         }
+        input.close();
     }
 }
